@@ -1,4 +1,4 @@
-## Yooooo i'm Yepssy 👋
+## Yooooo I'm Yepssy 👋
 
 I'm a Master’s student with a strong passion for DevSecOps, programming, and cloud security.
 
