@@ -1,7 +1,5 @@
 ## Yooooo I'm Yepssy 👋
 
-I'm a Master’s student with a strong passion for DevSecOps, programming, and cloud security.
+I’m a Master’s student passionate about programming, software robustness, and automated testing in video games.
 
-Currently studying cybersecurity at Paris-Cité University, I aim to broaden my expertise by pursuing a PhD in South Korea to explore advanced cybersecurity topics.
-
-I'm particularly inspired by game companies with a strong R&D culture, like Game Freak. My goal is to contribute to organizations where innovation and security meet to create exceptional user experiences.
+Currently studying cybersecurity at Paris-Cité University, I’m transitioning to research in automated game testing. My goal is to contribute to innovative game companies where technology and creativity combine to create exceptional experiences.
