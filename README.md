@@ -3,16 +3,6 @@
 Master's student in Computer Science at Sorbonne University, specializing in the Science and Technology of Software (STL) program. 
 My studies have cultivated a keen interest in automated software testing for enhancing software reliability and bug detection.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jessyfal04/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:yepssy@jessyfal04.dev">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</div>
-
 ## 🛠️ Languages and Tools<p align="center">
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,ocaml,rust,python,java,bash,godot" /><br>
