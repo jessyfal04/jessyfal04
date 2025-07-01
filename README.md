@@ -9,10 +9,6 @@ My studies have cultivated a keen interest in automated software testing for enh
     <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,docker" /><br>
     <img src="https://skillicons.dev/icons?i=obsidian,notion" />
 </div>
-
-## ⚡️ Stats
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jessyfal04&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="jessyfal04's GitHub Stats" />
-  <br>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=jessyfal04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="jessyfal04's Most Used Languages" />
 </div>
