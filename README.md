@@ -10,6 +10,5 @@ My studies have cultivated a keen interest in automated software testing for enh
     <img src="https://skillicons.dev/icons?i=obsidian,notion" />
 </div>
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=jessyfal04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="jessyfal04's Most Used Languages" />
  <img src="https://streak-stats.demolab.com?user=jessyfal04&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
 </div>
