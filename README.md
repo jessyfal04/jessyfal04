@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,ocaml,godot,bevy" /><br>
+    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,ocaml,godot" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,obsidian" /><br>
 </div>
 
